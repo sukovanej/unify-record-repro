@@ -1,0 +1,25 @@
+lockfileVersion: '6.1'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+dependencies:
+  '@effect/data':
+    specifier: ^0.12.6
+    version: 0.12.6
+  typescript:
+    specifier: 5.2.0-dev.20230611
+    version: 5.2.0-dev.20230611
+
+packages:
+
+  /@effect/data@0.12.6:
+    resolution: {integrity: sha512-XRhB7dnIpAOwAy7xKbjEvcG9E0+R7+yfwA6mcSpPja8zu6hYvIAbLtmiuKSRQ+QmjGRv4NzIJ6GwuHHpYHkoIg==}
+    dev: false
+
+  /typescript@5.2.0-dev.20230611:
+    resolution: {integrity: sha512-qbg1yH3XnM3fKxBpXTESv++zWLL5TbS1QfPw6D+GNNemnHo4OXtuhby6pXoaFSCiPILY+/8EqRAJZb/ovVAJRg==}
+    engines: {node: '>=14.17'}
+    hasBin: true
+    dev: false

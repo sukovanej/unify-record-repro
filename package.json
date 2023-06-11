@@ -1,0 +1,16 @@
+{
+  "name": "unify-record-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@effect/data": "^0.12.6",
+    "typescript": "5.2.0-dev.20230611"
+  }
+}
